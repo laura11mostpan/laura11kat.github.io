@@ -102,10 +102,12 @@ form {
 	font-size:0.875rem;
 	color: #b8b2a7;
 }
-.sotsmeregi div {
+.sots div {
 	display: block;
-	height: 50px;
-	width: 50px;
+	height: 60px;
+	width: 60px;
+	margin: 30px 15px;
+float: left;
 }
 .sotsmeregi a {
 	display: block;
