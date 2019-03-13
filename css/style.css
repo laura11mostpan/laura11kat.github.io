@@ -111,12 +111,11 @@ form {
 	display: block;
 	height: 50px;
 	width: 50px;
+	cursor: pointer;
 }
 .F{
 
-	cursor: pointer;
-	width: 100%;
-	height: 80px;
+	
 	background: url(../images/noActive1.png.) no-repeat;
 }
 .F:hover{
