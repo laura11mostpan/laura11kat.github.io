@@ -107,7 +107,11 @@ form {
 	height: 50px;
 	width: 50px;
 }
-
+.sotsmeregi a {
+	display: block;
+	height: 60px;
+	width: 60px;
+}
 .F{
 
 	cursor: pointer;
@@ -262,11 +266,7 @@ form {
 	margin: 0 auto;
 	width: 
 }
-.sotsmeregi a {
-	display: block;
-	height: 50px;
-	width: 50px;
-}
+
 
 
 
