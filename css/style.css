@@ -148,7 +148,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive1.png.) no-repeat;
+	background: url(../images/noActive1.png) no-repeat;
 }
 .F:hover{
 	background: url(../images/Active1.png) no-repeat;
@@ -158,7 +158,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive2.png.) no-repeat;
+	background: url(../images/noActive2.png) no-repeat;
 }
 .T:hover{
 	background: url(../images/Active2.png) no-repeat;
@@ -168,7 +168,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive3.png.) no-repeat;
+	background: url(../images/noActive3.png) no-repeat;
 }
 .G:hover{
 	background: url(../images/Active3.png) no-repeat;
@@ -178,7 +178,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive4.png.) no-repeat;
+	background: url(../images/noActive4.png) no-repeat;
 }
 .P:hover{
 	background: url(../images/Active4.png) no-repeat;
@@ -188,7 +188,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive5.png.) no-repeat;
+	background: url(../images/noActive5.png) no-repeat;
 }
 .PH:hover{
 	background: url(../images/Active5.png) no-repeat;
@@ -198,7 +198,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive6.png.) no-repeat;
+	background: url(../images/noActive6.png) no-repeat;
 }
 .B1:hover{
 	background: url(../images/Active6.png) no-repeat;
@@ -208,7 +208,7 @@ form {
 	cursor: pointer;
 	width: 100%;
 	height: 80px;
-	background: url(../images/noActive7.png.) no-repeat;
+	background: url(../images/noActive7.png) no-repeat;
 }
 .B2:hover{
 	background: url(../images/Active7.png) no-repeat;
